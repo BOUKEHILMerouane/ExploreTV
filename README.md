@@ -1,1 +1,1 @@
-![Directory Browser Example](images/ExploreTV.png)
+![Directory Browser Example](ExploreTV.png)
